@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cguitar000001"]
+
+[ext_resource type="Script" uid="uid://nma5w6t2usqt" path="res://Guitar.gd" id="1_gtr0000"]
+
+[node name="Guitar" type="Node2D" unique_id=446597334]
+script = ExtResource("1_gtr0000")

@@ -1,0 +1,13 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1777152428
+AudioEngine.gd::GDScript::6152131387077477659::1776692269::0::1::::<>Node<><>0<>0<><>::
+Guitar.gd::GDScript::937282278463086827::1777152407::0::1::::Guitar<>Node2D<><>0<>0<><>::
+Guitar.tscn::PackedScene::5235781677753898120::1777152407::0::1::::<><><>0<>0<><>::uid://nma5w6t2usqt::::res://Guitar.gd
+Main.gd::GDScript::7547201788555809405::1776680245::0::1::::<>Node2D<><>0<>0<><>::
+Main.tscn::PackedScene::5616689496443801008::1776680211::0::1::::<><><>0<>0<><>::res://Main.gd<>res://Guitar.tscn<>res://UI.tscn<>res://Visualizer.gd
+README.md::TextFile::-1::1776691837::0::1::::<><><>0<>0<><>::
+Screenshot 2026-04-25 at 22.27.01.png::CompressedTexture2D::1936169788869435343::1777152428::1777152428::1::::<><><>0<>0<>ebfcb5ab6bd5fbf9ee53cb82cf7a7c48<>res://.godot/imported/Screenshot 2026-04-25 at 22.27.01.png-a2be156d045027b744c30da14c7d4aae.ctex::
+Sequencer.gd::GDScript::8097955877347319639::1776680408::0::1::::<>Node<><>0<>0<><>::
+UI.gd::GDScript::8273874549093238772::1776681983::0::1::::<>CanvasLayer<><>0<>0<><>::
+UI.tscn::PackedScene::182196976021184776::1776680481::0::1::::<><><>0<>0<><>::res://UI.gd
+Visualizer.gd::GDScript::8122555319759207220::1776682499::0::1::::<>Node2D<><>0<>0<><>::

@@ -1,0 +1,6 @@
+res://Guitar.tscn
+res://Guitar.gd
+res://Sequencer.gd
+res://Visualizer.gd
+res://AudioEngine.gd
+res://README.md
